@@ -1,0 +1,11 @@
+Arduino: 1.8.13 (Linux), Board: "Arduino Mega or Mega 2560, ATmega2560 (Mega 2560)"
+
+Sketch uses 11668 bytes (4%) of program storage space. Maximum is 253952 bytes.
+Global variables use 2009 bytes (24%) of dynamic memory, leaving 6183 bytes for local variables. Maximum is 8192 bytes.
+An error occurred while uploading the sketch
+
+
+This report would have more information with
+"Show verbose output during compilation"
+option enabled in File -> Preferences.
+    
